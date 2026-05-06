@@ -3,7 +3,8 @@
 A topic-aware RAG system that processes day-by-day conversation history, detects topic shifts, builds checkpoint summaries, extracts a persona of User 1, and answers questions about them.
 
 ## Demo
-- **Live app**: <ADD STREAMLIT URL HERE>
+- **Live app**: https://huggingface.co/spaces/coderD-ai/kastack-rag-bot
+- **GitHub repo**: https://github.com/coderD-ai/kastack-rag-bot
 - **Loom walkthrough**: <ADD LOOM URL HERE>
 
 ## What it does
@@ -25,7 +26,7 @@ A keyword-based router decides whether the query is about persona (personality/h
 
 ## How topic detection works
 1. Embed every message with `sentence-transformers/all-MiniLM-L6-v2` (384-d).
-2. For each position `i` (with margin), compute the cosine similarity between the mean embedding of messages `[i-5, i)` and the mean embedding of messages `[i, i+5)`.
+2. For each position `i`, compute the cosine similarity between the mean embedding of messages `[i-5, i)` and the mean embedding of messages `[i, i+5)`.
 3. A point is flagged as a topic boundary if (a) similarity falls below threshold 0.45, (b) it is a local minimum within +/- 2 positions, and (c) at least 8 messages have passed since the last boundary.
 4. Result on 100 sample days (~1700 messages): 137 topic segments, average 12.6 messages each. Manual inspection of random boundaries showed clean topic transitions (e.g., pets to work, hobbies to food).
 
@@ -34,7 +35,7 @@ Two indexes built on top of the same embedding model:
 - **Topic-summary index** — one vector per topic segment summary.
 - **Message-window index** — one vector per 5-message rolling window.
 
-A query is embedded and the top-k from each index is retrieved (k=2 topics, k=3 windows by default). Both sets are formatted into the prompt under separate headers ("RELEVANT TOPIC SUMMARIES" / "RELEVANT CONVERSATION SNIPPETS"), giving the answer model both high-level themes and concrete excerpts.
+A query is embedded and the top-k from each index is retrieved (k=2 topics, k=3 windows by default). Both sets are formatted into the prompt under separate headers, giving the answer model both high-level themes and concrete excerpts.
 
 ## How persona is built
 - Filter to User 1's messages only.
