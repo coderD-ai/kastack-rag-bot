@@ -1,8 +1,8 @@
 streamlit
-sentence-transformers
-transformers
+sentence-transformers==2.7.0
+transformers==4.40.0
 torch
 scikit-learn
 numpy<2
 pandas
-huggingface-hub
+huggingface-hub==0.23.0
