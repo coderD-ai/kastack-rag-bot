@@ -1,0 +1,961 @@
+[
+  {
+    "topic_id": 0,
+    "start_idx": 0,
+    "end_idx": 8,
+    "message_count": 9,
+    "summary": " User 1: Hi! How are you? User 2: Good, thanks for asking! How about yourself? Users: \"I'm excited to be moving to a new city soon! What city are you moving to?"
+  },
+  {
+    "topic_id": 1,
+    "start_idx": 9,
+    "end_idx": 19,
+    "message_count": 11,
+    "summary": " User 1: \"I'm sure I'll love it. I've never been to Powell's Books\" User 2: \"It's great for stress relief and it's a great way to exercise\""
+  },
+  {
+    "topic_id": 2,
+    "start_idx": 20,
+    "end_idx": 27,
+    "message_count": 8,
+    "summary": " User 1: I'll have to try it sometime! User 2: \"It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job. I'm going to start working on that this weekend\""
+  },
+  {
+    "topic_id": 3,
+    "start_idx": 28,
+    "end_idx": 38,
+    "message_count": 11,
+    "summary": " User 1: Hello there, how are you doing today? User 2: I enjoy reading, cooking, and spending time with my family . User: Reading is a great way to relax. I love making chicken parmesan. I also love to make chocolate chip cookies ."
+  },
+  {
+    "topic_id": 4,
+    "start_idx": 39,
+    "end_idx": 52,
+    "message_count": 14,
+    "summary": " User 2: They are. I miss him every day. He misses me every day . User 1: I'm sure he misses you too. You should definitely go to the Everglades. It's one of the most beautiful places I've ever been ."
+  },
+  {
+    "topic_id": 5,
+    "start_idx": 53,
+    "end_idx": 74,
+    "message_count": 22,
+    "summary": " User 2: \"I love reading to kids. It's the best part of my job\" User 1: I'm a children's librarian. I love the Harry Potter series. I am looking forward to helping people and making a difference in my community.\""
+  },
+  {
+    "topic_id": 6,
+    "start_idx": 75,
+    "end_idx": 85,
+    "message_count": 11,
+    "summary": " User 2: I love to sing karaoke and I am really into archery . User 1: \"I love to play soccer and I usually wake up and play piano before starting my day. I wish I could play piano, but I have no musical talent!\""
+  },
+  {
+    "topic_id": 7,
+    "start_idx": 86,
+    "end_idx": 95,
+    "message_count": 10,
+    "summary": " User 1: I know, I'm lucky. I'm not good at keeping up with my family, but I'm trying to be better . User 2: I loved trying the local food! I also went to a metal show for my birthday . I'm single and live with my three cats ."
+  },
+  {
+    "topic_id": 8,
+    "start_idx": 96,
+    "end_idx": 107,
+    "message_count": 12,
+    "summary": " User 1: I love books, and I like to watch funny and lighthearted shows to relax . User 2: I have a lot of different kinds of plants, including flowers, vegetables, and herbs . The Name of the Wind by Patrick Rothfuss is a favorite book ."
+  },
+  {
+    "topic_id": 9,
+    "start_idx": 108,
+    "end_idx": 119,
+    "message_count": 12,
+    "summary": " User 1: \"I wish I had a green thumb like you\" User 2: \"It's not so hard, just takes a little time and patience. I'll have to give it a try sometime\""
+  },
+  {
+    "topic_id": 10,
+    "start_idx": 120,
+    "end_idx": 127,
+    "message_count": 8,
+    "summary": " User 1: \"How are you doing today?\" User 2: \"I'm doing well, thanks for asking\" User: \"It's worth it to spend time with the people I love\""
+  },
+  {
+    "topic_id": 11,
+    "start_idx": 128,
+    "end_idx": 137,
+    "message_count": 10,
+    "summary": " User 1: I'm studying computer science. I'm hoping to get a job as a programmer after I graduate . User 2: I own a gym. I train people to stay in peak physical condition. It's not easy, but it's worth it!"
+  },
+  {
+    "topic_id": 12,
+    "start_idx": 138,
+    "end_idx": 151,
+    "message_count": 14,
+    "summary": " User 1: Hi there! User 2: Hello! He says he just got done making a delicious meal for his family . Users: I made a lasagna. It's one of my favorite dishes to cook."
+  },
+  {
+    "topic_id": 13,
+    "start_idx": 152,
+    "end_idx": 173,
+    "message_count": 22,
+    "summary": " User 2: So, what do you do for a living? I love to cook, read, and spend time with my family . User 1: \"I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy\""
+  },
+  {
+    "topic_id": 14,
+    "start_idx": 174,
+    "end_idx": 184,
+    "message_count": 11,
+    "summary": " User 2: \"I love to go on hikes with my family. I love being outdoors. I live in a beautiful area, so there are lots of great hiking trails nearby\" User 1: \"You should come visit us sometime. We'd love to show you around\""
+  },
+  {
+    "topic_id": 15,
+    "start_idx": 185,
+    "end_idx": 200,
+    "message_count": 16,
+    "summary": " User 2: I'm a fisherman and I love spending time with my dog . I love being out on the water and the peace and quiet . User 1: I love to dance salsa. I've always wanted to learn how to do it. You should definitely try it. It's a lot of fun."
+  },
+  {
+    "topic_id": 16,
+    "start_idx": 201,
+    "end_idx": 217,
+    "message_count": 17,
+    "summary": " User 2: Maybe I will have to go to college to study photography after high school . User 2 says his dad is a really good photographer and he's been teaching him everything he knows ."
+  },
+  {
+    "topic_id": 17,
+    "start_idx": 218,
+    "end_idx": 228,
+    "message_count": 11,
+    "summary": " User 1: I love to dance with my kids. It's a great way to bond with them and have some fun . User 2: I also like to clean houses for extra money. I try to stay in touch with my family as often as I can ."
+  },
+  {
+    "topic_id": 18,
+    "start_idx": 229,
+    "end_idx": 238,
+    "message_count": 10,
+    "summary": " User 1: I enjoy reading Jane Austen novels . User 2: I've never read any of her novels, but I've heard good things about them. They're a great way to relax and enjoy a good story. It's so much fun. I've been singing since I was a kid. I'm excited to get back into shape."
+  },
+  {
+    "topic_id": 19,
+    "start_idx": 239,
+    "end_idx": 249,
+    "message_count": 11,
+    "summary": " User 1: I know, I know. I've been meaning to, but I'm just too busy with my kids . But they're also the best thing that's ever happened to me, User 2: I'm not close with my family, so I'm jealous ."
+  },
+  {
+    "topic_id": 20,
+    "start_idx": 250,
+    "end_idx": 261,
+    "message_count": 12,
+    "summary": " User 1: What do you do for a living? I am a muralist. I create murals for businesses and individuals. It's a lot of work, but it's so rewarding. I love being able to see my work come to life. The most challenging part is coming up with the concept for the mural."
+  },
+  {
+    "topic_id": 21,
+    "start_idx": 262,
+    "end_idx": 270,
+    "message_count": 9,
+    "summary": " User 1: What is your favorite animal? User 2: Sharks! I love the way they swim. I love to go to the aquarium and see them. I have always wanted to go though. They have a huge shark tank ."
+  },
+  {
+    "topic_id": 22,
+    "start_idx": 271,
+    "end_idx": 282,
+    "message_count": 12,
+    "summary": " User 2: I am not very close to my family, but I am working on it. I love working with kids. I get to make a difference in kids' lives. I want to be a teacher. It is a great job! I love it!"
+  },
+  {
+    "topic_id": 23,
+    "start_idx": 283,
+    "end_idx": 295,
+    "message_count": 13,
+    "summary": " User 1: I love getting to help people learn and grow. I also love the flexibility of the job. I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to . User 2: That is awesome! I am glad you enjoy your job. It is scary, but it is"
+  },
+  {
+    "topic_id": 24,
+    "start_idx": 296,
+    "end_idx": 310,
+    "message_count": 15,
+    "summary": " User 1: \"I like to go fishing with my uncle and reminisce about the old days\" User 2: I like to watch YouTube videos about welding and learn new things . \"I'm terrible at spelling, but I'm good at juggling,\" User 1 says ."
+  },
+  {
+    "topic_id": 25,
+    "start_idx": 311,
+    "end_idx": 329,
+    "message_count": 19,
+    "summary": " User 1: I love the combination of the creamy hummus and the crunchy pita bread . User 2: My favorite part of my job is seeing the progress that my clients make. It is so rewarding to be able to help them achieve their goals."
+  },
+  {
+    "topic_id": 26,
+    "start_idx": 330,
+    "end_idx": 344,
+    "message_count": 15,
+    "summary": " User 1: \"I have a mini Australian Shepherd. He's a lot of work, but he's also fun\" User 2: \"He's my best friend. I don't know what I would do without him\" User: \"It's a great way to get some exercise and spend time with my dog.\""
+  },
+  {
+    "topic_id": 27,
+    "start_idx": 345,
+    "end_idx": 362,
+    "message_count": 18,
+    "summary": " User 1: I'm not sure if you are busy, but I wanted to ask about scuba diving . The Maldives looks amazing, but it's so expensive . The Florida Keys is a great place to go diving in the Florida Keys ."
+  },
+  {
+    "topic_id": 28,
+    "start_idx": 363,
+    "end_idx": 371,
+    "message_count": 9,
+    "summary": " User 1: Hello! How are you doing today? User 2: \"I am doing well, thank you for asking!\" User 1 has a golden retriever named Buddy . User 2 has a horse named Shadow. He is my best friend ."
+  },
+  {
+    "topic_id": 29,
+    "start_idx": 372,
+    "end_idx": 379,
+    "message_count": 8,
+    "summary": " User 2: \"I like to do a lot of the same things. I like to go hiking, biking, and fishing\" User 1: \"That would be fun! I would love to get to know you better. I'll send you my number so we can make plans\""
+  },
+  {
+    "topic_id": 30,
+    "start_idx": 380,
+    "end_idx": 389,
+    "message_count": 10,
+    "summary": " User 1: Hello there! User 2: Hi there! How is your day? The weather is perfect and the leaves are so beautiful, so it is the perfect time of year for me . User: I love to go hiking and camping. I love going to football games and watching horror movies ."
+  },
+  {
+    "topic_id": 31,
+    "start_idx": 390,
+    "end_idx": 398,
+    "message_count": 9,
+    "summary": " User 1: It sounds like we have a lot in common! What about your family? Do you have any kids? User 2: Yes, I have four daughters . They are my pride and joy. They are the light of my life."
+  },
+  {
+    "topic_id": 32,
+    "start_idx": 399,
+    "end_idx": 412,
+    "message_count": 14,
+    "summary": " User 2: So, what do you like to do for fun? User 1: I like to watch old movies from my childhood. I also like to travel and take pictures. He also likes to watch action movies with his family on Netflix. He likes to play video games, like Skyrim and Fallout ."
+  },
+  {
+    "topic_id": 33,
+    "start_idx": 413,
+    "end_idx": 424,
+    "message_count": 12,
+    "summary": " User 2: That's a great part of those games! User 1: I love to experiment with new recipes and share my food with my friends and family . My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!"
+  },
+  {
+    "topic_id": 34,
+    "start_idx": 425,
+    "end_idx": 435,
+    "message_count": 11,
+    "summary": " User 1: Great! What are some of your favorite things to do in your free time? User 2: I love to go for walks, spend time with my family and friends, and listen to music ."
+  },
+  {
+    "topic_id": 35,
+    "start_idx": 436,
+    "end_idx": 454,
+    "message_count": 19,
+    "summary": " User 1: What do you do for work? User 2: I am a cake decorator. I love chocolate cake. I really enjoy making wedding cakes. I get to be creative and make something beautiful for people to enjoy on their special day. I also love to read and play video games."
+  },
+  {
+    "topic_id": 36,
+    "start_idx": 455,
+    "end_idx": 464,
+    "message_count": 10,
+    "summary": " User 2: \"I think we're going to be good friends. We have a lot in common\" User 1: I just got back from a run in the woods behind my house. I've never been to the woods before. It's so peaceful and beautiful. You should go sometime,\" User 2 says ."
+  },
+  {
+    "topic_id": 37,
+    "start_idx": 465,
+    "end_idx": 481,
+    "message_count": 17,
+    "summary": " User 1: What do you like to do for fun? User 2: I like to read, write, and spend time with my family . User: I love to read a good mystery novel. I love romance novels. They're so fun to read. I try to keep myself busy ."
+  },
+  {
+    "topic_id": 38,
+    "start_idx": 482,
+    "end_idx": 490,
+    "message_count": 9,
+    "summary": " User 1: Hi, how are you doing today? User 2: Pretty good. I'm just practicing my guitar . I play a lot of different kinds of music, but I mostly play rock and blues ."
+  },
+  {
+    "topic_id": 39,
+    "start_idx": 491,
+    "end_idx": 499,
+    "message_count": 9,
+    "summary": " User 2: I like to go fishing, watch baseball, and spend time with my family . User 1: \"I like the peace and quiet of being on the water. It's a great way to relax\" User 2 says he likes to catch bass and trout ."
+  },
+  {
+    "topic_id": 40,
+    "start_idx": 500,
+    "end_idx": 511,
+    "message_count": 12,
+    "summary": " User 1: What is your favorite food? My dad is a chef and my sister is a server so my favorite food is always on the table . I wish I could have a chef cook for me too! I'm afraid of being judged for my diet ."
+  },
+  {
+    "topic_id": 41,
+    "start_idx": 512,
+    "end_idx": 532,
+    "message_count": 21,
+    "summary": " User 1: Hi there! What's your name? What do you do for a living? User 2: I'm self-employed, I run my own business. I'm a professional chef. I love to cook all kinds of food, but my specialty is Italian food . User: \"We should cook together sometime. We can exchange recipes and cook up a storm\""
+  },
+  {
+    "topic_id": 42,
+    "start_idx": 533,
+    "end_idx": 543,
+    "message_count": 11,
+    "summary": " User 1: Just got back from a show with my band. We played in a coffee shop. It's a lot of fun, but it can be work too. I also like to clean. It helps me de-stress. I like to go for drives too. But I don't have a car so I usually take the bus ."
+  },
+  {
+    "topic_id": 43,
+    "start_idx": 544,
+    "end_idx": 555,
+    "message_count": 12,
+    "summary": " User 1: \"I love working from home\" User 2: \"My favorite part is getting to interact with people from all walks of life\""
+  },
+  {
+    "topic_id": 44,
+    "start_idx": 556,
+    "end_idx": 565,
+    "message_count": 10,
+    "summary": " User 2: That's really cool! I'm not very good with computers. I like that about you. You seem like a really great person. I'm glad we met . User 1: Hey, my name is (User 1)"
+  },
+  {
+    "topic_id": 45,
+    "start_idx": 566,
+    "end_idx": 581,
+    "message_count": 16,
+    "summary": " User 1: Nice to meet you! What are you up to today? Not much, just relaxing. How about you? Pupil 2: \"I'm an aspiring male model. I'll probably be there for a few days. Have fun! Have fun!\""
+  },
+  {
+    "topic_id": 46,
+    "start_idx": 582,
+    "end_idx": 599,
+    "message_count": 18,
+    "summary": " User 1: Oh, that's cool! I love cats! Pupil 2: I love their personality. They're so independent and loving. They are the best pets. I love gardening, and I'm also a big fan of the Beatles ."
+  },
+  {
+    "topic_id": 47,
+    "start_idx": 600,
+    "end_idx": 621,
+    "message_count": 22,
+    "summary": " User 1: I'm looking for someone to share my love of romantic comedies with me . User 2: I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride . User: \"I'm also a big fan of the romcoms that come out of Bollywood. Are they worth watching?\""
+  },
+  {
+    "topic_id": 48,
+    "start_idx": 622,
+    "end_idx": 629,
+    "message_count": 8,
+    "summary": " User 1: I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies . User 2: \"I'm a woman who worries about the judgment of my family because of my sexual orientation\""
+  },
+  {
+    "topic_id": 49,
+    "start_idx": 630,
+    "end_idx": 640,
+    "message_count": 11,
+    "summary": " User 1: So, what do you like to do for fun? User 2: I used to play hockey when I was younger, but now I enjoy spending my time fishing and relaxing . I love fishing too. It's so relaxing to just sit there and enjoy the scenery."
+  },
+  {
+    "topic_id": 50,
+    "start_idx": 641,
+    "end_idx": 657,
+    "message_count": 17,
+    "summary": " User 1: \"I love to go for walks, play with my parakeet, and watch YouTube videos\" User 2: \"What else do you like to do for fun? \"I'm always looking for new ways to learn how to cook\" User 1 says he's excited about his new job as a professor ."
+  },
+  {
+    "topic_id": 51,
+    "start_idx": 658,
+    "end_idx": 670,
+    "message_count": 13,
+    "summary": " User 1: Hey there! How are you doing well, thanks for asking? User 2: I like to read, write, and spend time in nature. I love historical fiction and fantasy novels. I've been on a historical fiction kick lately ."
+  },
+  {
+    "topic_id": 52,
+    "start_idx": 671,
+    "end_idx": 678,
+    "message_count": 8,
+    "summary": " User 1: Hi how are you? User 2: I'm just working on some dental assistant work . User: I just got a new couch. It's a sectional couch, it's really comfy."
+  },
+  {
+    "topic_id": 53,
+    "start_idx": 679,
+    "end_idx": 690,
+    "message_count": 12,
+    "summary": " User 1: I'm going to call my mom over to see it. She's been wanting me to get a new couch for a while. I think I will. I'm sure she'll love it. User 2: Great! Let me know what she thinks."
+  },
+  {
+    "topic_id": 54,
+    "start_idx": 691,
+    "end_idx": 703,
+    "message_count": 13,
+    "summary": " User 1: I love Mexican food. I love making 3d models for video games and movies . My favorite Mexican dish is enchiladas with chicken and cheese . I also like to make models of cars ."
+  },
+  {
+    "topic_id": 55,
+    "start_idx": 704,
+    "end_idx": 711,
+    "message_count": 8,
+    "summary": " User 2: I'm working at a coffee shop to support myself while I pursue my dream of becoming a famous actress . User 1: That's a great idea! I've always wanted to be an actress. It's a lot of hard work, but it's so rewarding. I think I might just do that."
+  },
+  {
+    "topic_id": 56,
+    "start_idx": 712,
+    "end_idx": 724,
+    "message_count": 13,
+    "summary": " User 2: So, what do you do for fun? I like to run, read, and watch movies . User 1: I have a lot of favorite movies, but I think I'd have to say \"The Princess Bride\" User 2 says he is currently reading \"The Great Gatsby\" by F. Scott Fitzgerald ."
+  },
+  {
+    "topic_id": 57,
+    "start_idx": 725,
+    "end_idx": 733,
+    "message_count": 9,
+    "summary": " User 1: I just got a new teaching job and I'm really excited about it. I'll be teaching kindergarten. It's such a fun age. I'm sure you're going to do a great job. I hope so!"
+  },
+  {
+    "topic_id": 58,
+    "start_idx": 734,
+    "end_idx": 746,
+    "message_count": 13,
+    "summary": " User 2: Do you have any pets? \"I love animals. I have a dog and a cat too,\" User 1: \"I think they make the world a better place\" User 2 says he has two dogs and a tabby cat ."
+  },
+  {
+    "topic_id": 59,
+    "start_idx": 747,
+    "end_idx": 758,
+    "message_count": 12,
+    "summary": " User 1: What's the most interesting thing that's happened to you recently? User 2: \"I actually found out that my car is sentient. It can talk and everything!\" User: \"We talk all the time. I actually think it's really smart\""
+  },
+  {
+    "topic_id": 60,
+    "start_idx": 759,
+    "end_idx": 769,
+    "message_count": 11,
+    "summary": " User 1: Well, I'm glad you're enjoying your new friend. It's definitely made my life a little more interesting. I'm a software engineer. It can be stressful, but I enjoy it. I've always wanted to learn to play the piano ."
+  },
+  {
+    "topic_id": 61,
+    "start_idx": 770,
+    "end_idx": 782,
+    "message_count": 13,
+    "summary": " User 2: I like to watch football on TV, read books, and spend time with my cat . User 1: Maybe I'll give it a try one day one day. I started playing when I was about 10 years old. It's a lot of fun! It's never too late to learn!"
+  },
+  {
+    "topic_id": 62,
+    "start_idx": 783,
+    "end_idx": 790,
+    "message_count": 8,
+    "summary": " User 1: I like to build things. I'm not very good at it, but it's fun . User 2: \"I'm sure you'll make a great officer. I do my best\""
+  },
+  {
+    "topic_id": 63,
+    "start_idx": 791,
+    "end_idx": 802,
+    "message_count": 12,
+    "summary": " User 2: \"I like to try new restaurants. My favorite place to eat recently is this new sushi place that just opened up\" User 1: I'm not sure where I want to do my residency. I'm thinking maybe Sweden. I love hockey. I've never been to Sweden. It's beautiful. I hear it's beautiful.\""
+  },
+  {
+    "topic_id": 64,
+    "start_idx": 803,
+    "end_idx": 814,
+    "message_count": 12,
+    "summary": " User 1: What are your hobbies? I love playing the guitar, and I also enjoy collecting seashells . I like to play a lot of different kinds of music, but my favorite is probably rock and roll ."
+  },
+  {
+    "topic_id": 65,
+    "start_idx": 815,
+    "end_idx": 824,
+    "message_count": 10,
+    "summary": " User 1: I love comic cons too, it's where I can be myself and express my creativity . User 2: \"I love meeting creators and artists, I also love the cosplay!\" User 1 has been to the one in Chicago and one in New York City . User 1 says he loves the music scene in California, especially the punk scene ."
+  },
+  {
+    "topic_id": 66,
+    "start_idx": 825,
+    "end_idx": 834,
+    "message_count": 10,
+    "summary": " User 1: That's awesome! I love dogs. I love going to the skatepark too. I wish I could skate but I'm too uncoordinated. I can't skate either . User 2: I enjoy listening to Nirvana in my spare time as well. My favorite song by them is smells like teen spirit."
+  },
+  {
+    "topic_id": 67,
+    "start_idx": 835,
+    "end_idx": 843,
+    "message_count": 9,
+    "summary": " User 2: I used to be a teacher, but I had to quit due to my health . He loved working with kids and helping them learn . He misses it a lot ."
+  },
+  {
+    "topic_id": 68,
+    "start_idx": 844,
+    "end_idx": 851,
+    "message_count": 8,
+    "summary": " User 1: I love going to new restaurants, but I'm not so big on the diner scene . I love the homey atmosphere and the good old-fashioned comfort food . User 2: No, I don't have any pets. I've always wanted a dog ."
+  },
+  {
+    "topic_id": 69,
+    "start_idx": 852,
+    "end_idx": 870,
+    "message_count": 19,
+    "summary": " User 1: What are some of your hobbies? \"I love to go shopping. I'm always looking for new clothes and accessories\" User 2: I love to read all kinds of different genres, but my favorite is romance ."
+  },
+  {
+    "topic_id": 70,
+    "start_idx": 871,
+    "end_idx": 882,
+    "message_count": 12,
+    "summary": " User 1: Well, I should get going. It was nice chatting with you. Have a great weekend! User 2: \"I love to cook, I love to spend time tending to my plants\""
+  },
+  {
+    "topic_id": 71,
+    "start_idx": 883,
+    "end_idx": 901,
+    "message_count": 19,
+    "summary": " User 2: I love to read, cook, and spend time with my family . User 1: I'm a big fan of historical fiction and mysteries. I once started a forest fire in California. I am not proud of it, but I have learned from my mistake. I love traveling and making friends. I would love to be a stay at home dad."
+  },
+  {
+    "topic_id": 72,
+    "start_idx": 902,
+    "end_idx": 914,
+    "message_count": 13,
+    "summary": " User 1: Hey! I'm new to the area and I'm looking to make some friends . User 2: I like to go for walks, explore the area, and meet new people. I'm glad you're so positive! I try to stay positive and do my best."
+  },
+  {
+    "topic_id": 73,
+    "start_idx": 915,
+    "end_idx": 927,
+    "message_count": 13,
+    "summary": " User 1: \"I'm looking for a home near the beach that has enough space for my snake\" User 2: \"Aww, that's so cute! I've always wanted a snake but I'm not sure if I'm ready for one yet\" User: \"They're really not that bad! They're pretty low-maintenance and they're really good at self-"
+  },
+  {
+    "topic_id": 74,
+    "start_idx": 928,
+    "end_idx": 938,
+    "message_count": 11,
+    "summary": " User: \"I'm a stay-at-home mom with three kids. It's a lot of work, but it's also really rewarding\" \"My favorite color is green. My favorite is a dark forest green.\""
+  },
+  {
+    "topic_id": 75,
+    "start_idx": 939,
+    "end_idx": 949,
+    "message_count": 11,
+    "summary": " User 1: I love to play badminton and watch funny shows . User 2: I'm trying to learn how to play the guitar but I'm not very good at it yet ."
+  },
+  {
+    "topic_id": 76,
+    "start_idx": 950,
+    "end_idx": 960,
+    "message_count": 11,
+    "summary": " User 1: I love to see the Tetons in the summer . User 2: \"There are some really beautiful mountains in the world\" User 1 says he loves to visit the mountains ."
+  },
+  {
+    "topic_id": 77,
+    "start_idx": 961,
+    "end_idx": 972,
+    "message_count": 12,
+    "summary": " User 1: What are your hobbies? User 2: I enjoy playing music, reading, and spending time with my family . User: \"I love the Beatles, the Rolling Stones, and Led Zeppelin\" User: I love the Beastie Boys, Queen, and Michael Jackson ."
+  },
+  {
+    "topic_id": 78,
+    "start_idx": 973,
+    "end_idx": 985,
+    "message_count": 13,
+    "summary": " User 1: I love fantasy novels and I also believe in fairytales . User 2: Fantasy novels are so much fun to read. They help me escape the real world and immerse myself in another . We should get together sometime and play music together."
+  },
+  {
+    "topic_id": 79,
+    "start_idx": 986,
+    "end_idx": 1005,
+    "message_count": 20,
+    "summary": " User 1: What kind of job do you have? User 2: I work at the deli counter at a grocery store . He says he gets to meet a lot of interesting people . User: \"I wish I had daughters. I never had the chance to have a big family\""
+  },
+  {
+    "topic_id": 80,
+    "start_idx": 1006,
+    "end_idx": 1016,
+    "message_count": 11,
+    "summary": " User 1: Same here! Do you want to exchange contact information? Pervyre: Sure! I would love to share your contact information ."
+  },
+  {
+    "topic_id": 81,
+    "start_idx": 1017,
+    "end_idx": 1030,
+    "message_count": 14,
+    "summary": " User 2: I love to read, go for walks, and spend time with my family . User 1: What's your favorite book? It's hard to say, but I think I'd have to say The Great Gatsby ."
+  },
+  {
+    "topic_id": 82,
+    "start_idx": 1031,
+    "end_idx": 1040,
+    "message_count": 10,
+    "summary": " User 2: I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf . User 1: I miss my dog every day. It was a golden retriever named Buddy. He was the best dog ever ."
+  },
+  {
+    "topic_id": 83,
+    "start_idx": 1041,
+    "end_idx": 1053,
+    "message_count": 13,
+    "summary": " User 2: I like to go for walks, read, and watch movies . User 1: \"I'm sure you'll figure out what you want to do with your life. I'm trying to stay positive and focus on my goals\""
+  },
+  {
+    "topic_id": 84,
+    "start_idx": 1054,
+    "end_idx": 1071,
+    "message_count": 18,
+    "summary": " User 1: How are you doing today? User 2: Great! I am excited for my first day of college . He says he loves to take walks in the canyon before he starts work . User: \"I love to cuddle with my cats on the couch. I love nature!\""
+  },
+  {
+    "topic_id": 85,
+    "start_idx": 1072,
+    "end_idx": 1091,
+    "message_count": 20,
+    "summary": " User 1: I love the country! It's so peaceful and quiet. I like to make my own soap and watch movies about aliens invading the earth. It's actually pretty easy! You can find a lot of tutorials online. The country is the best place to go for walks in the woods and explore the woods."
+  },
+  {
+    "topic_id": 86,
+    "start_idx": 1092,
+    "end_idx": 1108,
+    "message_count": 17,
+    "summary": " User 2: \"I'm not close with my family so I like to spend time alone\" User: \"It can be lonely sometimes, but it's also nice to have your own space\" User 1: I like being able to do what I want, when I want ."
+  },
+  {
+    "topic_id": 87,
+    "start_idx": 1109,
+    "end_idx": 1122,
+    "message_count": 14,
+    "summary": " User 1: What do you like to do for fun? User 2: I like to spend time with my family and friends, and I love to sing ."
+  },
+  {
+    "topic_id": 88,
+    "start_idx": 1123,
+    "end_idx": 1135,
+    "message_count": 13,
+    "summary": " User 1: I'm not a big fan of the cold, but I do enjoy playing fetch with my dog in the snow . User 2: \"I wish I could swim, I'm too afraid of drowning. I just love cold winters and strong breezes\""
+  },
+  {
+    "topic_id": 89,
+    "start_idx": 1136,
+    "end_idx": 1151,
+    "message_count": 16,
+    "summary": " User 2: I like to surf on my laptop in the morning to catch up on the news and social media . User 1: I'm not rich, but I love technology and I have a sweet tooth . User 2 says he's moving to a new city to pursue his culinary dreams ."
+  },
+  {
+    "topic_id": 90,
+    "start_idx": 1152,
+    "end_idx": 1165,
+    "message_count": 14,
+    "summary": " User 2: It's always good to mix things up! I love getting to dress up as my favorite characters . I love spending time with my friends and family, cooking, working out, and cosplaying ."
+  },
+  {
+    "topic_id": 91,
+    "start_idx": 1166,
+    "end_idx": 1183,
+    "message_count": 18,
+    "summary": " User 1: What do you do for a living? User 2: I play football for the Philadelphia Eagles . User: \"I like being able to help people. I also like the variety of work I do\""
+  },
+  {
+    "topic_id": 92,
+    "start_idx": 1184,
+    "end_idx": 1204,
+    "message_count": 21,
+    "summary": " User 1: I like a lot of different movies, but my favorite is probably The Shawshank Redemption . He says he likes how his family is always there for him . He likes how he is honest and straightforward ."
+  },
+  {
+    "topic_id": 93,
+    "start_idx": 1205,
+    "end_idx": 1215,
+    "message_count": 11,
+    "summary": " User 2: I like to play guitar and read, but I'm really into historical fiction right now . One of his favorites is Pillars of the Earth by Ken Follett . User 1: I might have to check it out ."
+  },
+  {
+    "topic_id": 94,
+    "start_idx": 1216,
+    "end_idx": 1227,
+    "message_count": 12,
+    "summary": " User 1: I love to cook, listen to music, and spend time with my friends and family . User 2: I enjoy rollerblading, playing video games, and going for hikes . User: I listen to all sorts of music, but I especially love rock, pop, and hip-hop. I grew up on a large farm, so I like listening to country music"
+  },
+  {
+    "topic_id": 95,
+    "start_idx": 1228,
+    "end_idx": 1238,
+    "message_count": 11,
+    "summary": " User 2: I love all kinds of roses, but my favorite is probably the David Austin rose . They're also very hardy, so they can withstand a lot of different weather conditions . User 1: Well, I hope you have a great run!"
+  },
+  {
+    "topic_id": 96,
+    "start_idx": 1239,
+    "end_idx": 1248,
+    "message_count": 10,
+    "summary": " User 1: What do you like to do for fun? I love to go on adventures with my dog . User 2: It's a great way to bond with your dog ."
+  },
+  {
+    "topic_id": 97,
+    "start_idx": 1249,
+    "end_idx": 1260,
+    "message_count": 12,
+    "summary": " User 1: I love my dog so much. I love to make pasta dishes. It's a great way to relax and spend time with friends or family . It's so much better than store-bought. The best way to connect with people."
+  },
+  {
+    "topic_id": 98,
+    "start_idx": 1261,
+    "end_idx": 1278,
+    "message_count": 18,
+    "summary": " User 1: I think we're going to get along just fine. It's a racquet sport that's similar to squash but it's played on a court that's smaller and the ball is a little bit bigger ."
+  },
+  {
+    "topic_id": 99,
+    "start_idx": 1279,
+    "end_idx": 1286,
+    "message_count": 8,
+    "summary": " User 1: Hey! I'm glad you're enjoying some time to yourself at home . User 2: I've been working on a new computer build. I'm a bit of a tech nerd, so I really enjoy it. I love Indian food, Thai food, and Chinese food ."
+  },
+  {
+    "topic_id": 100,
+    "start_idx": 1287,
+    "end_idx": 1297,
+    "message_count": 11,
+    "summary": " User 1: I love pizza too! It's my favorite food . User 2: I have two sisters and one brother. We're all pretty close ."
+  },
+  {
+    "topic_id": 101,
+    "start_idx": 1298,
+    "end_idx": 1309,
+    "message_count": 12,
+    "summary": " User 2: \"I'm not much of a musician myself, but I love listening to music\" User 1: \"Music is amazing. It's one of the things that brings me the most joy in life\" User 2 says he loves The xx, The Japanese House, and Phoebe Bridgers ."
+  },
+  {
+    "topic_id": 102,
+    "start_idx": 1310,
+    "end_idx": 1322,
+    "message_count": 13,
+    "summary": " User 1: Hey! The Beatles, The Rolling Stones, and Led Zeppelin are my favorite bands of all time . User 2: \"I like to listen to music while I walk\" User: \"It's a great way to relax and clear your head\""
+  },
+  {
+    "topic_id": 103,
+    "start_idx": 1323,
+    "end_idx": 1337,
+    "message_count": 15,
+    "summary": " User 2: Do you have any other hobbies? User 1: Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun . User 2 says he is interested in learning more about native plants and how to grow them ."
+  },
+  {
+    "topic_id": 104,
+    "start_idx": 1338,
+    "end_idx": 1356,
+    "message_count": 19,
+    "summary": " User 1: Hi there! User 2: Hello there, I hope you are doing well . I would love to be able to ride horses, but I am blind so I cannot ride horses . User: \"I love to cook and travel. What else do you do for work? I'm a stay at home mom, I run my own Etsy shop and do some knitting.\""
+  },
+  {
+    "topic_id": 105,
+    "start_idx": 1357,
+    "end_idx": 1370,
+    "message_count": 14,
+    "summary": " User 2: \"I'm looking for ways to control my blood sugar while still being able to enjoy my active lifestyle\" User 1: \"It's been a challenge, but I'm determined to find a way. I'm sure you will,\" User 2 says . User 1 says he's enjoying his time in the military ."
+  },
+  {
+    "topic_id": 106,
+    "start_idx": 1371,
+    "end_idx": 1382,
+    "message_count": 12,
+    "summary": " User 1: I am watching a documentary about the history of the United States . User 2: I think I like the Renaissance period the best. The Renaissance period was a time of great creativity and innovation ."
+  },
+  {
+    "topic_id": 107,
+    "start_idx": 1383,
+    "end_idx": 1396,
+    "message_count": 14,
+    "summary": " User 1: I love to swim, play in the sand, and eat ice cream at the beach . User 2: I like to play video games, read, watch movies, write and listen to music ."
+  },
+  {
+    "topic_id": 108,
+    "start_idx": 1397,
+    "end_idx": 1407,
+    "message_count": 11,
+    "summary": " User 2: I like a lot of different types of movies, but I really like the Lord of the Rings trilogy . User 1: I have heard of the music but I have never listened to their music . Users 1 and 2: \"I think we would be good friends.  I think so too!\""
+  },
+  {
+    "topic_id": 109,
+    "start_idx": 1408,
+    "end_idx": 1418,
+    "message_count": 11,
+    "summary": " User 2: \"I love the mountains. I love the adrenaline rush. I've been skiing since I was a kid. What's your favorite ski resort?\" User 1: I love Vail! It's so beautiful and there are so many great runs. The Avett Brothers are my favorite band, I love their music ."
+  },
+  {
+    "topic_id": 110,
+    "start_idx": 1419,
+    "end_idx": 1427,
+    "message_count": 9,
+    "summary": " User 1: What do you like to do in your spare time? User 2: I like to build things. I'm really into woodworking too. I built a coffee table last year. It's not as hard as you might think ."
+  },
+  {
+    "topic_id": 111,
+    "start_idx": 1428,
+    "end_idx": 1440,
+    "message_count": 13,
+    "summary": " User 1: Hey there! User 2: Hello! I love volunteering! It's a great way to give back to the community and meet new people . It's always rewarding to help others in need, says User 1 ."
+  },
+  {
+    "topic_id": 112,
+    "start_idx": 1441,
+    "end_idx": 1451,
+    "message_count": 11,
+    "summary": " User: I enjoy fishing, playing the piano, and eating at my local Thai restaurant . User: \"I love the Pad Thai and Tom Yum soup. I also love the green curry and pineapple fried rice. I enjoy learning about history, culture, and science\""
+  },
+  {
+    "topic_id": 113,
+    "start_idx": 1452,
+    "end_idx": 1463,
+    "message_count": 12,
+    "summary": " User 1: I love the fall because the leaves change colors . User 2: My favorite season is duck hunting season because I love spending time with my dad and grandson . He says he brings a snack to work so he doesn't get hungry during lunch ."
+  },
+  {
+    "topic_id": 114,
+    "start_idx": 1464,
+    "end_idx": 1475,
+    "message_count": 12,
+    "summary": " User 2: I love to sing in the church choir and I also love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby . User 1: That's great. I sometimes eat too much sugar, which can cause my blood sugar levels to spike. It was nice talking to you today."
+  },
+  {
+    "topic_id": 115,
+    "start_idx": 1476,
+    "end_idx": 1492,
+    "message_count": 17,
+    "summary": " User 2: I'm doing well! I just got back from a hike with my dog, Allie . I love hiking. It's so peaceful and a great way to get some exercise . User 1: I used to be an avid hiker when I was younger, but I haven't been able to get out as much lately ."
+  },
+  {
+    "topic_id": 116,
+    "start_idx": 1493,
+    "end_idx": 1501,
+    "message_count": 9,
+    "summary": " User 2: So, what do you like to do for fun? User 1: I like to draw comics, dance with my friends, and spend time with my family and friends . He also likes to make content for his YouTube channel, create stews, and drink coffee . User: I've never made stew before. It's not too hard! You just need some meat,"
+  },
+  {
+    "topic_id": 117,
+    "start_idx": 1502,
+    "end_idx": 1516,
+    "message_count": 15,
+    "summary": " User 1: Hi! I'm looking forward to getting to know you better . I enjoy playing video games, reading books, and watching movies in my free time . I've also been trying to get into baking, but I'm not very good at it yet ."
+  },
+  {
+    "topic_id": 118,
+    "start_idx": 1517,
+    "end_idx": 1526,
+    "message_count": 10,
+    "summary": " User 2: I love a good run to clear my head . User 1: I like to play old favorites like \"What a Wonderful World\" User: I've always wanted to learn how to play piano ."
+  },
+  {
+    "topic_id": 119,
+    "start_idx": 1527,
+    "end_idx": 1539,
+    "message_count": 13,
+    "summary": " User 2: Thanks for the encouragement. What's your favorite thing to do on YouTube? \"I love watching music videos and learning about new music,\" User 1: I love to laugh. It's the best way to relieve stress. I'm currently unemployed, but I'm a writer and I have a YouTube channel ."
+  },
+  {
+    "topic_id": 120,
+    "start_idx": 1540,
+    "end_idx": 1548,
+    "message_count": 9,
+    "summary": " User 1: I love to cook as well, but I'm not very good at it . User 2: Sushi is amazing! I love the variety of flavors and textures ."
+  },
+  {
+    "topic_id": 121,
+    "start_idx": 1549,
+    "end_idx": 1557,
+    "message_count": 9,
+    "summary": " User 1: Well, I should probably get going. It was great talking to you! User 2: I really love my job as a doctor. It is so rewarding to be able to help people."
+  },
+  {
+    "topic_id": 122,
+    "start_idx": 1558,
+    "end_idx": 1565,
+    "message_count": 8,
+    "summary": " User 1: I love playing video games. I am really into the new Call of Duty game . User 2: I am not really a gamer. I have never played that game before. It is Super Mario World. That was my first video game and I loved it."
+  },
+  {
+    "topic_id": 123,
+    "start_idx": 1566,
+    "end_idx": 1579,
+    "message_count": 14,
+    "summary": " User 1: I'm a volunteer firefighter and I love to draw and create . User 2: \"I'm always on the lookout for new and exciting ways to challenge myself, both physically and mentally. I'm always looking for new people to meet and learn from\""
+  },
+  {
+    "topic_id": 124,
+    "start_idx": 1580,
+    "end_idx": 1587,
+    "message_count": 8,
+    "summary": " User 2: I'm currently working on a recipe for a new dessert I'm trying to create . User 1: I think we should have a bake off! We can each make our favorite dessert and then compare them . The dessert is a chocolate cake with a chocolate ganache frosting ."
+  },
+  {
+    "topic_id": 125,
+    "start_idx": 1588,
+    "end_idx": 1600,
+    "message_count": 13,
+    "summary": " User 2: That would be so much fun! I'd love to do that! User 1: Great! We can set it up for next weekend. I can't wait! I'm from a small town too, I love the beach ."
+  },
+  {
+    "topic_id": 126,
+    "start_idx": 1601,
+    "end_idx": 1616,
+    "message_count": 16,
+    "summary": " User 1: What do you do for a living? User 2: I'm a dancer and my spouse is a weather forecaster . User: I like to dance, read, and spend time with my family too ."
+  },
+  {
+    "topic_id": 127,
+    "start_idx": 1617,
+    "end_idx": 1627,
+    "message_count": 11,
+    "summary": " User 1: \"I am not a very good cook, but I love to eat\" User 2: \"My best friend lives in a big city, and I love the city\""
+  },
+  {
+    "topic_id": 128,
+    "start_idx": 1628,
+    "end_idx": 1642,
+    "message_count": 15,
+    "summary": " User 1: Hey! How's it going? User 2: Hey there! It's going well, thanks for asking. How about yourself? He says he's just getting ready to go to football practice. He's a wide receiver. He has two cats and a dog ."
+  },
+  {
+    "topic_id": 129,
+    "start_idx": 1643,
+    "end_idx": 1650,
+    "message_count": 8,
+    "summary": " User 2: \"I'm a blogger. I love being able to share my thoughts and ideas with the world\" User 1: \"It's fun, but it can be a lot of work. But it's worth it,\" User 2 says ."
+  },
+  {
+    "topic_id": 130,
+    "start_idx": 1651,
+    "end_idx": 1662,
+    "message_count": 12,
+    "summary": " User 1: I like to play video games, read, and do art projects . User 2: \"I like to draw and paint. Maybe we can do a project together\""
+  },
+  {
+    "topic_id": 131,
+    "start_idx": 1663,
+    "end_idx": 1675,
+    "message_count": 13,
+    "summary": " User 1: I don't believe in love, but I love my job . User 2: I've been with my boyfriend for five years now. I like to make fresh pies in my free time ."
+  },
+  {
+    "topic_id": 132,
+    "start_idx": 1676,
+    "end_idx": 1687,
+    "message_count": 12,
+    "summary": " User 1: Hey, what's up? User 2: I like to take my pug Corky to the dog park, go for walks, and do some yoga . User: I do a mix of different types of yoga, but I really like hatha yoga ."
+  },
+  {
+    "topic_id": 133,
+    "start_idx": 1688,
+    "end_idx": 1702,
+    "message_count": 15,
+    "summary": " User 1: Sure, that would be fun, I'll let you know when I find a class . User 2: I love to spend time with my family too. I used to be a nurse but now I just stay at home and take care of my mom. I love taking pictures of nature. I think it's so beautiful."
+  },
+  {
+    "topic_id": 134,
+    "start_idx": 1703,
+    "end_idx": 1712,
+    "message_count": 10,
+    "summary": " User 1: I like to go out and explore new places, I also like to read and write . User 2: I've been reading a lot of books about the Civil War lately. I've learned a lot about it. It keeps life interesting."
+  },
+  {
+    "topic_id": 135,
+    "start_idx": 1713,
+    "end_idx": 1721,
+    "message_count": 9,
+    "summary": " User 1: I would love to learn how to make a cake . User 2: I'm a pretty good baker myself! I love to make chocolate chip cookies . There are a lot of great recipes online ."
+  },
+  {
+    "topic_id": 136,
+    "start_idx": 1722,
+    "end_idx": 1727,
+    "message_count": 6,
+    "summary": " User 2: Yes, I have a few. I'll send you a link to them . User 1: I have to go now. It was nice talking to you too! Have a great day."
+  }
+]

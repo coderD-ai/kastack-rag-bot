@@ -1,0 +1,155 @@
+{
+  "habits": [
+    "I love classic cars.",
+    "I love the freedom of being able to learn whatever I want.",
+    "I love to cook too!",
+    "I love chicken parmesan too.",
+    "I love my job!",
+    "I love reading to kids.",
+    "I love to play soccer and I usually wake up and play piano before starting my day.",
+    "I love to take them to the park and play soccer with them.",
+    "I love trying new foods too.",
+    "I love books, and I like to watch funny and lighthearted shows to relax.",
+    "I love gardening too.",
+    "I love being able to spend time with my kids and help them learn and grow.",
+    "I love to cook, read, and spend time with my family.",
+    "I love historical fiction, too!",
+    "I love it.",
+    "I love the Outlander series by Diana Gabaldon.",
+    "I love to go on hikes with my family.",
+    "I love to dance salsa.",
+    "I love to dance with my kids.",
+    "I enjoy reading Jane Austen novels.",
+    "I love her writing style and her characters.",
+    "I love murals.",
+    "I like sharks too!",
+    "I love to go to the aquarium and see them.",
+    "I love working with kids."
+  ],
+  "personal_facts": {
+    "people_mentioned": [
+      "Buddy",
+      "Led Zeppelin",
+      "Powell",
+      "Outlander",
+      "Diana Gabaldon",
+      "Mittens",
+      "Jane Austen",
+      "Shadow",
+      "Skyrim",
+      "Stephen King's"
+    ],
+    "places_mentioned": [
+      "Portland",
+      "Sweden",
+      "Oregon",
+      "Impala",
+      "Nice",
+      "midwest",
+      "Chicago",
+      "New York City",
+      "Russia",
+      "California"
+    ],
+    "organizations_mentioned": [
+      "Maldives",
+      "Renaissance",
+      "EMT",
+      "the Florida Keys",
+      "Bollywood",
+      "the Rolling Stones",
+      "Toyota",
+      "Phoebe Bridgers"
+    ],
+    "dates_mentioned": [
+      "today",
+      "day",
+      "the day",
+      "every day",
+      "Fourth of July",
+      "tomorrow",
+      "a few days",
+      "next week"
+    ],
+    "relationships": [
+      {
+        "relation": "mom",
+        "mentions": 5,
+        "example": "my mom's chicken noodle soup"
+      },
+      {
+        "relation": "dad",
+        "mentions": 2,
+        "example": "my dad used to play pearl jam in the car with me"
+      },
+      {
+        "relation": "father",
+        "mentions": 1,
+        "example": "my father's influence made me into the person i am today"
+      },
+      {
+        "relation": "brother",
+        "mentions": 1,
+        "example": "my brother in another city"
+      },
+      {
+        "relation": "girlfriend",
+        "mentions": 2,
+        "example": "my girlfriend and eat some tacos"
+      },
+      {
+        "relation": "friends",
+        "mentions": 8,
+        "example": "my friends"
+      },
+      {
+        "relation": "kids",
+        "mentions": 3,
+        "example": "my kids and help them learn and grow"
+      },
+      {
+        "relation": "parents",
+        "mentions": 3,
+        "example": "my parents don't know about"
+      },
+      {
+        "relation": "family",
+        "mentions": 14,
+        "example": "my family, but i'm trying to be better"
+      }
+    ],
+    "possible_occupations": [
+      "software engineer",
+      "barista",
+      "circus juggler from the midwest",
+      "aspiring male model",
+      "student",
+      "professor",
+      "med student",
+      "big fan of greenhouses"
+    ]
+  },
+  "personality_traits": [
+    "highly enthusiastic",
+    "family-oriented",
+    "social",
+    "warm / polite"
+  ],
+  "communication_style": {
+    "total_messages": 885,
+    "avg_message_length_words": 11.2,
+    "shortest_message_words": 1,
+    "longest_message_words": 44,
+    "emoji_count": 0,
+    "emoji_usage": "none",
+    "exclamations_per_message": 0.5,
+    "questions_per_message": 0.26,
+    "tone": "enthusiastic",
+    "verbosity": "medium"
+  },
+  "_meta": {
+    "based_on_speaker": "User 1",
+    "total_messages_analyzed": 885,
+    "extraction_method": "heuristics + spaCy NER + regex pattern matching"
+  }
+}
