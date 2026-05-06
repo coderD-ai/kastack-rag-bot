@@ -1,7 +1,8 @@
-streamlit==1.32.0
-sentence-transformers==2.7.0
-transformers==4.40.0
-torch==2.2.0
-scikit-learn==1.4.0
-numpy==1.26.4
-huggingface-hub==0.23.0
+streamlit
+sentence-transformers
+transformers
+torch
+scikit-learn
+numpy<2
+pandas
+huggingface-hub
